@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author: say24sai
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Sayel Basel"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Researcher and Faculty Economics"
+  location         : "India"
+  employer         : "Indian Institute of Technology Bhubaneswar"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sayelbasel.sb@gmai.com" 
 
   # Academic websites
   academia         : # URL
