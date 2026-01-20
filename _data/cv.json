@@ -1,22 +1,22 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Dr.Sayel Basel",
+    "email": "sayelbase.sb@gmail.com",
     "phone": "",
     "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "summary": "Researcher and Faculty Economics",
     "location": {
-      "address": "",
+      "address": "India",
       "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
+      "city": "Darjeeling",
+      "countryCode": "IND",
       "region": ""
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "Sayel Basel",
+        "url": "https://scholar.google.com/citations?user=zvnHgJsAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
